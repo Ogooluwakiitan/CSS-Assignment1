@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(5, 5, 66);
+}
+#mylikes{
+    font-size: 25px ;
+}
+.likes{
+    color: violet;
+    font-size: Arial;
+}
+#likes2{
+    color: white;
+    font-size: 18px;
+}
+.dislikes{
+    color: orangered;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#dislikes2{
+color: beige;
+font-size: 18px;
+}
